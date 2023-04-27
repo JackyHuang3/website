@@ -1,0 +1,38 @@
+name = "SelfWebsite"
+description = "Jacky's personal website"
+license = "MIT"
+homepage = "https://jacky.refitor.com"
+demo = "https://jacky.refitor.com"
+min_version = "0.4.0"
+
+generate_feed = true
+
+[extra]
+
+nav = [
+  { name = "Blog", path = "/blog/" },
+  { name = "Product", path = "https://www.refitor.com" },
+  { name = "Private", path = "https://jacky.refitor.com" },
+  { name = "Github", path = "https://github.com/JackyHuang3" }
+]
+
+blog_path = "blog"
+
+icon = "icon.png"
+profile_small = "icon.png"
+profile_large = "profile.jpg"
+
+accent = "#05a081"
+accent_light = "#82d0c0"
+
+footer_about = """
+A simple dev-blog theme created by Bennett. You can follow him on [Github](https://github.com/bennetthardwick) (if you like).
+"""
+
+not_found_message = """
+This is not the page you're looking for... return back to [safety?](/)
+"""
+
+[author]
+name = "Jacky Huang"
+homepage = "https://jacky.refitor.com"
