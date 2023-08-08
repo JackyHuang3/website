@@ -12,8 +12,8 @@ generate_feed = true
 nav = [
   { name = "Blog", path = "/blog/" },
   { name = "Product", path = "https://www.refitor.com" },
-  { name = "Private", path = "https://jacky.refitor.com" },
-  { name = "Github", path = "https://github.com/JackyHuang3" }
+  { name = "Self", path = "https://self.refitor.com" },
+  { name = "Github", path = "https://github.com/refitor" }
 ]
 
 blog_path = "blog"
