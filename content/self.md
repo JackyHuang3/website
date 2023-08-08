@@ -5,6 +5,8 @@ template = "page.html"
 
 # Jacky's private website
 
+##### 注意: 如果本地服务穿透尚未开启或者动态授权失败，私有站点将无法访问!!! 
+
 ## Projects
 
 ### [最新技术研究][1]
