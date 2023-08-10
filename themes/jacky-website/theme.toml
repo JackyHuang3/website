@@ -10,13 +10,11 @@ generate_feed = true
 [extra]
 
 nav = [
-  { name = "Blog", path = "/blog/" },
+  { name = "Blog", path = "https://mirror.xyz/0x6de725300cE2AB3fc6C5c04ecFe85165Ed48D8B4" },
   { name = "Self", path = "/self" },
   { name = "Product", path = "https://jacky.refitor.com" },
   { name = "Github", path = "https://github.com/refitor" }
 ]
-
-blog_path = "blog"
 
 icon = "icon.png"
 profile_small = "icon.png"

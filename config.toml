@@ -17,3 +17,5 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
+accent = "#FF3B30"
+accent_light = "#FF2D55"
